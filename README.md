@@ -63,10 +63,10 @@ Or create a `.env` file:
 OPENAI_API_KEY=your-api-key
 ```
 
-### Step 3: Create Project Structure
+### Step 3: Create Project Structure (i.e. clone this repository)
 
 ```bash
-git clone https://git.generalassemb.ly/data-engineering-and-automation-with-ai/Lab-9-Vector-Databases-and-Embeddings/
+git clone https://git.generalassemb.ly/data-engineering-and-automation-with-ai/Lab-9-Vector-Databases-and-Embeddings.git
 cd Lab-9-Vector-Databases-and-Embeddings/
 ```
 
