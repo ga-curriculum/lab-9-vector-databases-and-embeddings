@@ -66,8 +66,8 @@ OPENAI_API_KEY=your-api-key
 ### Step 3: Create Project Structure
 
 ```bash
-mkdir -p ~/semantic-search-lab/data
-cd ~/semantic-search-lab
+git clone https://git.generalassemb.ly/data-engineering-and-automation-with-ai/Lab-9-Vector-Databases-and-Embeddings/
+cd Lab-9-Vector-Databases-and-Embeddings/
 ```
 
 ### Step 4: Verify Setup
